@@ -12,6 +12,8 @@ Site responsivo praticando Flexbox e Grid, com base no mobile-first, feito com a
 
 * Flex-box
 
+* Grid
+
 ## Feito por:
 
 ### Rodrigo Ramgund
